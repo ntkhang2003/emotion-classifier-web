@@ -1,7 +1,6 @@
 import streamlit as st
 from multiapp import Multiapp
 from pages import home, text, speech, emotionClassifier
-
 app = Multiapp()
 
 app.add_app("Home", home.app)

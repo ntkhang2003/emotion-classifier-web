@@ -1,5 +1,5 @@
 # Emotion text classifier web app (with Streamlit)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nainiayoub/emotion-classifier-web-app/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ntkhang2003/emotion-classifier-web/main/app.py)
 
 **Streamlit version 1.0.0** 
 
